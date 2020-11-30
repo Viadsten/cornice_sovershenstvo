@@ -41,7 +41,7 @@
   text-transform: uppercase;
   color: #fff;
   text-align: left;
-  font-weight: 400;
+  font-weight: 300;
   margin: 42px 0;
   font-size: 25px;
   font-family: 'Roboto'; }
@@ -201,7 +201,7 @@
 @media (min-width: 550px) {
   .hello__h2 {
     font-size: 29px;
-    margin: 20px 0;
+    margin: 100px 0 -20px 0;
     color: #fff; }
   .hello__h2--new {
     margin: 0px 0 10px;
@@ -705,7 +705,7 @@
 
 @media (min-width: 700px) {
   .you-tube {
-    margin-bottom: 123px;
+    margin-bottom: 150px;
     margin-top: 64px; }
   .you-tube__item {
     width: 32%;
@@ -713,6 +713,9 @@
 
 .price--city {
   margin-bottom: 0px; }
+
+.price--pacc4uTaT div img {
+  margin-bottom: 34px; }
 
 * {
   margin: 0;
